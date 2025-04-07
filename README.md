@@ -230,6 +230,7 @@ Execute the program using runserver command.
 
 '''
 # OUTPUT
-c:\Users\admin\Desktop\django\web\timetable\slotapp\static\Screenshot 2025-03-29 202037.png
+![Screenshot (559)](https://github.com/user-attachments/assets/18701a5f-e35c-4b25-8ca6-3799fae33eb7)
+
 # RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
